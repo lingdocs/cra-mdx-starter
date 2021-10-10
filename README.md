@@ -7,3 +7,15 @@ Bootstrapped with:
 - [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
 - [@lingdocs/mdx-loader](https://github.com/lingdocs/mdx-loader)
 
+### Development
+
+```
+yarn install
+yarn start
+```
+
+### Building
+
+```
+yarn build
+```
